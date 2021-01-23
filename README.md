@@ -16,3 +16,8 @@ A spot for various resources I find useful
 ### Regular Expressions
 
 * [Amit Chaudhary](https://amitness.com/regex/)
+
+
+### Testing
+
+* [Testing Python Applications with Pytest](https://stribny.name/blog/pytest/)
