@@ -5,6 +5,7 @@ A spot for various resources I find useful
 ## Illustrations, and Images
 
 * [DrawKit.io](https://www.drawkit.io)
+* [Heroicons](https://heroicons.com)
 
 
 ## Technical Resources
