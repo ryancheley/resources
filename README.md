@@ -14,6 +14,23 @@ A spot for various resources I find useful
 
 * [CSS ProTtips](http://github.com/AllThingsSmitty/css-protips)
 
+
+### Django, htmx, and Tailwind
+
+* [Rapid Prototyping with Django, htmx, and Tailwind CSS](https://testdriven.io/blog/django-htmx-tailwind/)
+
+A short tutorial on how to combine all three tools to develop a quick prototype of something
+
+* [django-htmx-todo-list](https://github.com/OmenApps/django-htmx-todo-list)
+
+A django example app for a To Do list using htmx
+
+
+### Github Actions CLI
+
+* [Work with GitHub Actions in your terminal with GitHub CLI](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/?utm_campaign=Django%2BNewsletter&utm_medium=web&utm_source=Django_Newsletter_72)
+
+
 ### Regular Expressions
 
 * [Amit Chaudhary](https://amitness.com/regex/)
@@ -22,10 +39,3 @@ A spot for various resources I find useful
 ### Testing
 
 * [Testing Python Applications with Pytest](https://stribny.name/blog/pytest/)
-
-
-### Django, htmx, and Tailwind
-
-* [Rapid Prototyping with Django, htmx, and Tailwind CSS](https://testdriven.io/blog/django-htmx-tailwind/)
-
-A short tutorial on how to combine all three tools to develop a quick prototype of something
