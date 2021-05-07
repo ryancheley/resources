@@ -25,6 +25,8 @@ A short tutorial on how to combine all three tools to develop a quick prototype 
 
 A django example app for a To Do list using htmx
 
+* [OctoEnergy Conventions for Python and Django](https://github.com/octoenergy/conventions/blob/master/python.md)
+
 
 ### Github Actions CLI
 
