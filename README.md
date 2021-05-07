@@ -27,6 +27,8 @@ A django example app for a To Do list using htmx
 
 * [OctoEnergy Conventions for Python and Django](https://github.com/octoenergy/conventions/blob/master/python.md)
 
+Conventions from OctoEnery where [PyDanny](https://twitter.com/pydanny) works
+
 
 ### Github Actions CLI
 
