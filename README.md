@@ -33,6 +33,14 @@ A django example app for a To Do list using htmx
 
 Conventions from OctoEnery where [PyDanny](https://twitter.com/pydanny) works
 
+* [Classy Class-Based Views](https://ccbv.co.uk)
+
+Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
+
+* [Classy Django Forms](https://cdf.9vo.lt)
+
+Detailed descriptions, with full methods, properties and attributes, for each form class ... it's ccbv but for forms!
+
 
 ### Github Actions CLI
 
