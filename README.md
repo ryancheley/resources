@@ -14,6 +14,10 @@ A spot for various resources I find useful
 
 * [What Does My Site Cost](https://whatdoesmysitecost.com)
 
+### AWS
+
+* [AWS VPC Core Concepts in an Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/)
+
 ### CSS
 
 * [CSS ProTtips](http://github.com/AllThingsSmitty/css-protips)
