@@ -45,6 +45,10 @@ Detailed descriptions, with full methods and attributes, for each of Django's cl
 
 Detailed descriptions, with full methods, properties and attributes, for each form class ... it's ccbv but for forms!
 
+* [Database access optimization](https://docs.djangoproject.com/en/3.2/topics/db/optimization/)
+
+Database optimizations with the Django ORM. Reminder ... the [Django Docs](https://docs.djangoproject.com/en/) are **really** good
+
 
 ### Github Actions CLI
 
