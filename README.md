@@ -55,6 +55,10 @@ Database optimizations with the Django ORM. Reminder ... the [Django Docs](https
 * [Work with GitHub Actions in your terminal with GitHub CLI](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/?utm_campaign=Django%2BNewsletter&utm_medium=web&utm_source=Django_Newsletter_72)
 
 
+### Philosophy
+
+* [Choose Boring Technology](http://boringtechnology.club)
+
 ### Regular Expressions
 
 * [Amit Chaudhary](https://amitness.com/regex/)
